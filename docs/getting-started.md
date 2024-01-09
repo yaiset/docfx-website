@@ -1,4 +1,4 @@
-# Getting Started
+# Primeros pasos
 ---------------------
 
 Para clonar los repositorios debe seguir los siguientes pasos
