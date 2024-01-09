@@ -50,7 +50,7 @@ public class Zona.ExcepcionParadaZona : Exception, ISerializable, _Exception
 [object.GetType\(\)](https://learn.microsoft.com/dotnet/api/system.object.gettype), 
 [object.MemberwiseClone\(\)](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone)
 
-</Details>
+</Details><br>
 
 ## Constructors
 

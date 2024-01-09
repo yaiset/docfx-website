@@ -35,7 +35,7 @@ public class Boton : UserControl, IAnimatable, IFrameworkInputElement, IInputEle
 [IQueryAmbient](https://learn.microsoft.com/dotnet/api/system.windows.markup.iqueryambient), 
 [IAddChild](https://learn.microsoft.com/dotnet/api/system.windows.markup.iaddchild)
 
-</Details>
+</Details><br>
 
 ## Remarks
 

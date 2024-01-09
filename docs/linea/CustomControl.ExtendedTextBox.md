@@ -35,7 +35,7 @@ public class ExtendedTextBox : UserControl, IAnimatable, IFrameworkInputElement,
 [IQueryAmbient](https://learn.microsoft.com/dotnet/api/system.windows.markup.iqueryambient), 
 [IAddChild](https://learn.microsoft.com/dotnet/api/system.windows.markup.iaddchild)
 
-</Details>
+</Details><br>
 
 ## Constructors
 
