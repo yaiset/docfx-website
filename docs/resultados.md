@@ -1,13 +1,8 @@
 # Informe Técnico y resultados
---------------------------
 
-## Aspectos relevantes
+## Mejoras identificadas por equipo de HCI
 
-### Mejoras identificadas
-
-### Mejoras identificadas por equipo de HCI
-
-#### Posibles mejoras aplicación APP Línea Llenado-Vaciado 
+**Posibles mejoras aplicación APP Línea Llenado-Vaciado**
 
 - Cuando se desea realizar un cambio de lotes es necesario vaciar la línea completa para
 poder realizar el cambio de lote. Se podría buscar una alternativa que permita realizar
