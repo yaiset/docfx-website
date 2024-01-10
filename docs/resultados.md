@@ -30,7 +30,7 @@ funcionalidad en la aplicación del Tablet que permita de forma manual incorpora
 registro a la base de datos.
 
 
-#### Posibles mejoras aplicación HavanaTablet 
+**Posibles mejoras aplicación HavanaTablet**
 
 - En la opción “Regrabar Tag”, al leer la información del Tag, los campos: lote, fecha y
 peso deben ser editables para poder introducir o modificar los valores de búsqueda del
@@ -48,7 +48,7 @@ similar sucede en la opción “Sustituir Tag/Escanear RFID”.
 botones de los campos de texto. Se debería diferenciar los componentes de la pantalla
 para que los mismos sean perfectamente identificables por el usuario.
 
-### Sugerencias de mejoras para el proyecto Havana Club por Avangenio
+## Sugerencias de mejoras para el proyecto Havana Club por Avangenio
 
 - Centralización y reorganización de las dependencias del proyecto.
 
@@ -66,9 +66,9 @@ El proyecto está implementado usando la versión 4.8 del .NET Framework. El est
 
 El proyecto tiene definidas actualmente un grupo de no conformidades que atentan contra el buen funcionamiento del proceso de adquisición y almacenamiento de datos. La resolución puntual de éstas no conformidades constituye una mejora potencial. Dichas resoluciones pueden variar en complejidad, pudiendo requerir grandes modificaciones a la arquitectura del proyecto. La evaluación de dichas complejidades se escapa al ámbito de este documento, y deben ser valoradas puntalmente.
 
-### Problemas identificados
+## Problemas identificados
 
-#### Deficiencias aplicación HavanaTablet
+**Deficiencias aplicación HavanaTablet**
 
 Luego de la revisión y pruebas de la aplicación HavanaTablet se detectaron un conjunto de no conformidades que no fueron cubiertas por sus desarrolladores (EKINSA) y que en gran medida atentan contra el correcto funcionamiento de la misma. A continuación, se relacionan estas no conformidades:
 
@@ -78,7 +78,7 @@ Luego de la revisión y pruebas de la aplicación HavanaTablet se detectaron un 
 - Cuando el sistema se encuentra procesando una lectura (por ejemplo, realizando una búsqueda en la base de datos) debe mostrar un mensaje indicativo (un loader) que indique que el sistema está procesando una solicitud y el usuario debe permanecer a la espera.
 - Si el lector RFID se desconecta de forma reiterada de la aplicación o esta es reiniciada pueden ocurrir errores de sincronización entre los dispositivos, siendo necesario reiniciar el sistema del Tablet.
 
-#### Deficiencias aplicación APP Línea Llenado-Vaciado
+**Deficiencias aplicación APP Línea Llenado-Vaciado**
 
 Luego de la revisión y pruebas de la aplicación App Línea de Llenado Vaciado se detectaron un conjunto de no conformidades que no fueron cubiertas por sus desarrolladores (EKINSA) y que en gran medida atentan contra el correcto funcionamiento del flujo y el almacenamiento de los datos. A continuación, se relacionan estas no conformidades:
 
